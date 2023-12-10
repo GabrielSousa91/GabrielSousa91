@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 ### ⚡ GitHub Status
 
+[![wakatime](https://wakatime.com/badge/user/018c51c4-7d07-419d-81f3-9c50efdf880b.svg)](https://wakatime.com/@018c51c4-7d07-419d-81f3-9c50efdf880b)
+
 <div>
 <a href="https://github.com/GabrielSousa91">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSousa91&layout=compact&langs_count=7&theme=dracula"/>
